@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27854129571",
+    "project_id": "scopestore-e1870",
+    "storage_bucket": "scopestore-e1870.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27854129571:android:29d46212d676a2999c7216",
+        "android_client_info": {
+          "package_name": "com.scopestore.scope_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAj-54frGPJ68c-MT1h2uh_F2eVNo0lcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
